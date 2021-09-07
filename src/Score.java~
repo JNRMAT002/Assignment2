@@ -46,6 +46,6 @@ public class Score {
 	
 	public String toString()
 	{
-		return ("Score: " + getScore() + " Caught: " + getCaught() + " Missed " + getMissed());
+		return ("Score: " + getScore() + "\n" + " Caught: " + getCaught() + "\n" +  " Missed " + getMissed());
 	}
 }

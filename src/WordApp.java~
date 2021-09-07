@@ -148,8 +148,7 @@ public class WordApp {
 		      Thread trackScore = new Thread(s);
 		      trackScore.start();
 		      
-		      // Clear text field on start of new game
-		      textEntry.setText("");
+		      
 		      textEntry.requestFocus();  //return focus to the text entry field
 		      
 		   }

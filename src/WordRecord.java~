@@ -8,7 +8,7 @@ public class WordRecord {
 	private boolean dropped;
 	
 	private int fallingSpeed;
-	private static int maxWait=600;
+	private static int maxWait=450;
 	private static int minWait=250;
 
 	public static WordDictionary dict;
@@ -94,7 +94,7 @@ public class WordRecord {
 	
 	public void resetMaxMinWait()
 	{
-		maxWait = 600;
+		maxWait = 450;
 		minWait = 250;
 	}
 	
