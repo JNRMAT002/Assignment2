@@ -1,0 +1,29 @@
+commit 95b9fce0671401140a756b63007595bfdb914ff4
+Author: JNRMAT002 <matthewjanuary@gmail.com>
+Date:   Tue Sep 7 21:17:08 2021 +0200
+
+    Removed backup files (due to git repo holding files, no need for redundancy). Generated javadocs
+
+commit 5db4d411a25f36d09609498b222c6c4e3b687a2a
+Author: JNRMAT002 <matthewjanuary@gmail.com>
+Date:   Tue Sep 7 21:13:16 2021 +0200
+
+    Implemented score tracker, message displayer for end of game. Altered WordPanel, WordDrop, WordRecord
+
+commit c7ba1849b551df5abe2c6abd38aebeaa559decfc
+Author: JNRMAT002 <matthewjanuary@gmail.com>
+Date:   Sat Sep 4 15:47:13 2021 +0200
+
+    testing git push with SSH instead of HTTPS
+
+commit 4820a67e37b130f77448fcdbef427d6f8d632951
+Author: JNRMAT002 <matthewjanuary@gmail.com>
+Date:   Sat Sep 4 15:43:23 2021 +0200
+
+    added README.md to git repo; details running of program with makefile
+
+commit be5645bb9c90ee8483c251bdcaab7277edf2c3a6
+Author: Matthew January <matthewjanuary@gmail.com>
+Date:   Sat Sep 4 15:06:52 2021 +0200
+
+    added Makefile, src and bin folders
