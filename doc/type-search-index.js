@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"DisplayMessage"},{"p":"<Unnamed>","l":"Score"},{"p":"<Unnamed>","l":"TrackScore"},{"p":"<Unnamed>","l":"WordApp"},{"p":"<Unnamed>","l":"WordDictionary"},{"p":"<Unnamed>","l":"WordDrop"},{"p":"<Unnamed>","l":"WordPanel"},{"p":"<Unnamed>","l":"WordRecord"}]
